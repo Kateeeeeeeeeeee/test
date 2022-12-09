@@ -7,6 +7,5 @@ public class TestClass {
 				//수정 
 		System.out.println("Hi");
 		// 혜민 수정
-		
 	}
 }
