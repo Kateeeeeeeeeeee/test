@@ -9,5 +9,5 @@ public class TestClass {
 		// 혜민 수정
 		// 은수 수정 2차
 	}
-	//채우 수정
+	//채우 수정 2차
 }
